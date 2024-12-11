@@ -1,6 +1,6 @@
 # latihan_oop
 Nama : Afdhal Agislam <p>
-Nim : 312410496 <p>
+Nim : 312410445 <p>
 Kelas : TI.24.A.5 <p>
 Mata kuliah : Bahasa Pemrograman <p>
 ## Struktur Direktori
